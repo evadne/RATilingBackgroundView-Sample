@@ -1,0 +1,3 @@
+[submodule "RATilingBackgroundView"]
+	path = RATilingBackgroundView
+	url = git://github.com/evadne/RATilingBackgroundView.git
